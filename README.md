@@ -4,8 +4,8 @@ Ochiq, bepul ma'lumotlar asosidagi ikkita Telegram bot.
 
 | Mahsulot | Bot | Kim uchun |
 |---|---|---|
-| 🌍 «Silkinyaptimi?» | **@BOT_USERNAME_1** | Kechasi silkinishdan uyg'onib, "zilzilami yoki tuyuldimi?" deb o'ylagan odam |
-| ❄️ «Sovuq urishi» | **@BOT_USERNAME_2** | Toshkent va atrofidagi tomorqa egasi. Kechki sovuq bahorda o'rik guli va ko'chatni, kuzda uzumni nobud qiladi |
+| 🌍 «Silkinyaptimi?» | [@silkinyaptimibot](https://t.me/silkinyaptimibot) | Kechasi silkinishdan uyg'onib, "zilzilami yoki tuyuldimi?" deb o'ylagan odam |
+| ❄️ «Sovuq urishi» | [@sovuqurishibot](https://t.me/sovuqurishibot) | Toshkent va atrofidagi tomorqa egasi. Kechki sovuq bahorda o'rik guli va ko'chatni, kuzda uzumni nobud qiladi |
 
 Ikkala bot ham o'rnatishsiz ishlaydi: havolani oching, **Start** bosing va joylashuvni yuboring.
 
